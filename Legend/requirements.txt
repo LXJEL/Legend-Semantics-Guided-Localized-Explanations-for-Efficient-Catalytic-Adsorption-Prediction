@@ -1,0 +1,10 @@
+numpy
+pyyaml
+torch
+transformers
+tokenizers
+einops
+tqdm
+ase
+scipy
+lmdb
